@@ -1,4 +1,4 @@
-# Copyright (c) [Year] [Your Name]
+# Copyright (c) 2025 CarlisleInfoSec
 # MIT License
 
 # SIEM
