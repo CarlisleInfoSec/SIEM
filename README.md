@@ -1,3 +1,6 @@
+# Copyright (c) [Year] [Your Name]
+# MIT License
+
 # SIEM
 Kali Purple ELK SIEM with Honeypot
 
